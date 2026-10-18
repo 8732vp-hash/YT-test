@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Video Downloader Pro",
+  "description": "Download YouTube videos in any resolution from 360p to 1080p HD, extract MP3 audio, trim clips, and generate AI video summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
